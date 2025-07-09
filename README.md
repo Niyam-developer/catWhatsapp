@@ -30,4 +30,4 @@
 
 ## Contact
 
-For support or inquiries, contact: [your-email@example.com]
+For support or inquiries, contact: catwphelp2025@gmail.com
