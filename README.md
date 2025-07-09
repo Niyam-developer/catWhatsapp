@@ -27,3 +27,7 @@
 > **Important:** Do not rename or move the default folders; the app relies on their names to function properly.
 
 ---
+
+## Contact
+
+For support or inquiries, contact: [your-email@example.com]
