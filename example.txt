@@ -1,11 +1,9 @@
-<WhatsappIntegrationXML>
-    <number>91xxxxxxxxxx</number>
-    <message>Dear Sir/Mam,
-This is example .xml file formate.
-*Remember*:- The number should be with country code for example : 91xxxxxxxxxx
-*catWhatsapp*</message>
-    <filePath>C:\Users\Prasanna\Desktop\Cal.xlsx</filePath>
-</WhatsappIntegrationXML>
+    <WhatsappIntegrationXML>
+     <number>9198xxxx33xx</number>
+       <group></group>
+  <message>Hello World</message>
+  <filePath>C:\Users\hello.txt</filePath>
+    </WhatsappIntegrationXML>
 
 
 this is .xml file formate

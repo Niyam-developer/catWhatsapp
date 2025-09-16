@@ -8,6 +8,7 @@
 
 - Secure WhatsApp login via QR code scanning.
 - Automatic monitoring of a `watch_folder` for incoming message `.xml` files.
+- Send Messages to Number and Group.
 - Persistent session—no need to scan the QR code again after initial login.
 - Uses a personal `hash.dat` file for secure identification.
 - Simple, plug-and-play setup with minimal configuration.
@@ -16,7 +17,7 @@
 
 ## Installation & Usage
 
-1. Download the ZIP package from the [official website](http://twostars.co.in/whatsapp/pages).
+1. Download the all Files and Folders package from the [official website](https://github.com/Niyam-developer/catWhatsapp).
 2. Obtain your personal `hash.dat` file from [here](https://twostars.co.in/whatsappApi.html).
 3. Create a base folder and extract the ZIP contents into it.
 4. Place your `hash.dat` file inside the base folder.
